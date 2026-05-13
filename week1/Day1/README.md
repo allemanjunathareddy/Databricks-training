@@ -1,63 +1,68 @@
-Day 1 – SQL Basics & Aggregation (Up to GROUP BY)
-🎯 Objective
+# Day 1 - SQL Basics Assignment
 
-Learn the fundamentals of SQL including:
+## 📌 Overview
 
-Basic queries
-Data filtering
-Aggregate functions
-GROUP BY operations
-📂 Files in This Folder
-SQL practice queries
-Aggregate function examples
-GROUP BY practice questions
+Day 1 focused on learning the fundamentals of SQL and understanding basic querying techniques used for data retrieval and filtering.
 
-Queries were practiced using DB Fiddle / SQL environments.
+This assignment was based on practicing SQL queries using sample datasets to build a strong foundation in database operations.
 
-🗂️ Dataset Overview
+The main focus areas included:
+- Data retrieval
+- Data filtering
+- Sorting records
+- Aggregation functions
+- Grouping data
 
-The dataset contains three tables:
+---
 
-Employee → Employee details
-Department → Department information
-Project → Project details linked to departments
-📚 Concepts Covered
-🔹 Basic Queries
-SELECT *
-Selecting specific columns
-🔹 Filtering Data
-WHERE clause
-Conditions using >, <, =
-🔹 String Matching
-LIKE operator
-Wildcards % and _
-🔹 Date Queries
-Filtering using dates
-Comparing hire dates
-🔹 Aggregate Functions
-SUM()
-AVG()
-MAX()
-MIN()
-COUNT()
-🔹 GROUP BY
-Grouping records
-Department-wise calculations
-📝 Practice Questions Solved (1–25)
-Basic Queries (1–5)
-String Matching (6–10)
-Date Queries (11–15)
-Aggregate Queries (16–20)
-GROUP BY Queries (21–25)
-🚀 Key Concepts Demonstrated
-Writing SQL queries
-Filtering and pattern matching
-Using aggregate functions
-Grouping data with GROUP BY
-✅ Outcome
+## 📚 Topics Covered
 
-Day 1 builds a strong foundation in SQL fundamentals required for:
+### SQL Basics
+- SELECT statement
+- WHERE clause
+- ORDER BY
+- GROUP BY
+- Aggregate Functions
 
-Data analysis
-Problem solving
-Technical interviews
+### Assignment Tasks
+- Retrieving data from tables
+- Filtering records using conditions
+- Sorting data in ascending and descending order
+- Using aggregate functions
+- Grouping records for analysis
+
+---
+
+## 📊 Total Queries Completed
+
+- Basic SQL Practice Queries
+- Aggregation and Filtering Queries
+
+---
+
+## 🎯 Learning Outcome
+
+After completing Day 1, I improved my understanding of:
+
+- Basic SQL syntax
+- Query execution
+- Data filtering techniques
+- Aggregate functions
+- Grouping data using GROUP BY
+
+This assignment helped me build a strong foundation in SQL querying.
+
+---
+
+## 📂 Files Included
+
+- sql_queries1.sql → SQL practice queries
+- README.md → Assignment documentation
+
+---
+
+## 👨‍💻 Author
+
+**Manjunatha Reddy**  
+B.Tech Student |Information Technology 
+Learning Databricks | SQL | Data Engineering
