@@ -80,6 +80,3 @@ This assignment strengthened my knowledge of SQL NULL handling and data validati
 **Manjunatha Reddy**  
 B.Tech Student|Information technology  
 Learning Databricks | SQL | Data Engineering
-**Manju Reddy**  
-B.Tech Student  
-Learning Databricks | SQL | Data Engineering
