@@ -1,98 +1,149 @@
-# Week 1 - Databricks Training
+# Databricks SQL Training
 
 ## 📌 Overview
 
-Week 1 of the Databricks Training program focused on building a strong foundation in SQL and understanding core database concepts used in Data Engineering.
+This repository contains my Databricks SQL training assignments and practice work organized week-wise and day-wise.
 
-The training included hands-on practice with SQL queries, JOIN operations, Window Functions, Common Table Expressions (CTEs), and analytical problem solving.
+The training focuses on building strong SQL fundamentals, advanced query writing, analytical problem solving, text processing, and real-world database operations used in Data Engineering and Databricks environments.
 
-The assignments were designed to simulate real-world business scenarios and improve practical SQL skills required for Data Engineering and Databricks environments.
+The assignments include hands-on practice with SQL concepts, JOIN operations, Window Functions, CTEs, REGEX, NULL handling, numeric functions, and string manipulation.
+
+---
+
+# 📚 Week 1 - SQL Fundamentals & Advanced Analytics
+
+## 📌 Week 1 Overview
+
+Week 1 focused on building a strong foundation in SQL and understanding core database concepts used in Data Engineering and Databricks environments.
+
+The assignments included hands-on practice with SQL fundamentals, JOIN operations, Window Functions, Common Table Expressions (CTEs), and advanced analytical SQL queries.
 
 ---
 
 ## 📚 Topics Covered
 
-### SQL Fundamentals
+### Day 1 - SQL Basics
 - SELECT statements
 - WHERE clause
 - ORDER BY
 - GROUP BY
 - Aggregate Functions
 
-### SQL JOIN Operations
+### Day 2 - SQL JOIN Operations
 - INNER JOIN
 - LEFT JOIN
 - RIGHT JOIN
+- SELF JOIN
+
+### Day 3 - Advanced JOIN Assignments
 - FULL OUTER JOIN logic
 - CROSS JOIN
+- Multi-table JOIN reporting
+- Handling unmatched rows
 
-### Advanced SQL Concepts
-- Window Functions
+### Day 4 - Window Functions & CTEs
 - ROW_NUMBER()
 - RANK()
 - DENSE_RANK()
 - LAG() & LEAD()
 - Running Totals
-- Moving Average
-
-### Common Table Expressions (CTEs)
-- Single CTE
-- Multiple CTEs
-- Recursive CTE
+- Recursive CTEs
+- Analytical SQL queries
 
 ---
 
-## 📂 Week Structure
+## 📊 Week 1 Learning Outcomes
 
-### Day 1
-Introduction to SQL Basics and Aggregation Functions
+After completing Week 1, I improved my understanding of:
 
-### Day 2
-SQL JOIN Operations and Relationship-based Queries
-
-### Day 3
-Advanced JOIN Assignments and Real-world SQL Problem Solving
-
-### Day 4
-Window Functions, CTEs, and Advanced SQL Analytics
+- SQL fundamentals and query writing
+- Relational database concepts
+- JOIN operations and table relationships
+- Analytical SQL problem solving
+- Window Functions and CTEs
+- Business reporting using SQL
 
 ---
 
-## 📊 Learning Outcomes
+# 📚 Week 2 - Advanced SQL Functions & REGEX
 
-After completing Week 1, I gained practical knowledge in:
+## 📌 Week 2 Overview
 
-- Writing SQL queries efficiently
-- Performing JOIN operations across multiple tables
-- Solving analytical SQL problems
-- Understanding ranking and reporting concepts
-- Using CTEs and Window Functions
-- Improving logical and problem-solving skills in SQL
+Week 2 focused on advanced SQL functions and text-processing concepts used in real-world data analysis and database management.
 
-This week helped build a strong foundation for future Databricks and Data Engineering concepts.
+The assignments included practical exercises on NULL handling, numeric functions, REGEX operations, and string manipulation techniques using MySQL.
 
 ---
 
-## 🛠️ Technologies Used
+## 📚 Topics Covered
 
-- Databricks
-- SQL
-- Apache Spark
-- GitHub
+### Day 1 - NULL Functions
+- IFNULL()
+- COALESCE()
+- NULLIF()
+- IS NULL
+- IS NOT NULL
+- NULL-safe calculations
+
+### Day 2 - Number Manipulation Functions
+- ROUND()
+- CEIL()
+- FLOOR()
+- POWER()
+- SQRT()
+- FORMAT()
+- GREATEST()
+- LEAST()
+
+### Day 3 - REGEX Foundation
+- REGEXP
+- REGEXP_SUBSTR()
+- Pattern matching
+- Email validation
+- String extraction
+
+### Day 4 - REGEX Assessment
+- Numeric extraction
+- Country code extraction
+- Structured data validation
+- Regex-based transformations
+
+### Day 5 - String Functions
+- CONCAT()
+- SUBSTRING()
+- REPLACE()
+- TRIM()
+- LEFT() & RIGHT()
+- LPAD() & RPAD()
+- Text formatting and manipulation
 
 ---
 
-## 📂 Repository Contents
+## 📊 Week 2 Learning Outcomes
 
-- SQL Practice Files
-- Assignment Queries
-- README Documentation
-- Outputs and Reports
+After completing Week 2, I improved my understanding of:
+
+- Handling NULL values safely
+- Performing numeric and financial calculations
+- Text processing using REGEX
+- Pattern matching and validation
+- String manipulation and formatting
+- Writing advanced SQL transformation queries
 
 ---
 
-## 👨‍💻 Author
+# 📂 Repository Structure
 
-**Manjunatha Reddy**  
-B.Tech Student |Information Technology 
-Learning Databricks | SQL | Data Engineering
+```text
+Week1/
+├── Day1/
+├── Day2/
+├── Day3/
+└── Day4/
+
+Week2/
+├── Day1/
+├── Day2/
+├── Day3/
+├── Day4/
+└── Day5/
